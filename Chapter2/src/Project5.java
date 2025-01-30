@@ -1,5 +1,5 @@
 public class Project5 {
-    public static final int HEIGHT = 5;
+    public static final int HEIGHT = 7;
     public static void main(String[] args) {
         int numOfSpacesFront;
         int numOfSpacesBehind;
